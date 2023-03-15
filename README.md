@@ -1,7 +1,7 @@
 <h1>TP2 Gestion utilisateurs et leur roles</h1>
 
 <p>Architecture projet</p>
-<img src="images/a.png" />
+<img src="images/architecc.png" />
 
 <p>Classes User et Role</p>
 <img src="images/User.png" />
